@@ -1,2 +1,1 @@
-# https://www.pubeduc.github.io
-Pubeduc
+Site desenvolvido como projeto final da disciplina de desenvolvimento web.
